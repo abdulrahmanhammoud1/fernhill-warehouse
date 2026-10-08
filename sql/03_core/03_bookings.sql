@@ -1,4 +1,4 @@
--- Bookings: Hopscotch reservations and Apex tickets in one 
+-- Bookings: Hopscotch reservations and Apex tickets in one shape
 
 -- History (SCD type 2): one row per version, valid_from -> valid_to
 -- Hopscotch sends real versions. Apex keeps no history, so it is rebuilt from what we know
