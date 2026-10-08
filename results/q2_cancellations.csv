@@ -1,0 +1,9 @@
+platform,lead_time,bookings,cancelled,cancel_rate_pct
+apex,1. same day,679,11,1.6
+apex,2. 1-7 days,1372,85,6.2
+apex,3. 8-30 days,983,109,11.1
+apex,4. 31+ days,417,66,15.8
+hopscotch,1. same day,702,16,2.3
+hopscotch,2. 1-7 days,1495,117,7.8
+hopscotch,3. 8-30 days,1068,160,15.0
+hopscotch,4. 31+ days,409,91,22.2

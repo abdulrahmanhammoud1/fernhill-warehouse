@@ -18,3 +18,8 @@ set TimeZone = 'UTC';
 .read sql/03_core/summary.sql
 
 .read sql/04_checks/checks.sql
+
+.read sql/05_answers/q1_net_takings.sql
+.read sql/05_answers/q2_cancellations.sql
+.read sql/05_answers/q3_busiest_hour.sql
+.read sql/05_answers/q4_shared_customers.sql
