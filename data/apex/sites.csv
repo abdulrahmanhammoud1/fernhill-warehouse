@@ -1,0 +1,6 @@
+site_no,site_title,iso_country,iso_currency,olson_tz,is_training
+1,Orlando Grand Prix Karting,US,USD,America/New_York,0
+2,Desert Speedway Phoenix,US,USD,America/Phoenix,0
+3,Northern Karting Manchester,GB,GBP,Europe/London,0
+4,Bayside Karting Melbourne,AU,AUD,Australia/Melbourne,0
+5,TRAINING TRACK,US,USD,America/New_York,1

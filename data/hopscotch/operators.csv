@@ -1,0 +1,7 @@
+operator_key,trading_name,vertical,iso_country,iso_currency,tz_name,is_sandbox
+1,Locked In Leeds,Escape room,GB,GBP,Europe/London,false
+2,Liffey Axe Club,Axe throwing,IE,EUR,Europe/Dublin,false
+3,Barton Creek Kayak Tours,Tours,US,USD,America/Chicago,false
+4,Harbour Climb Sydney,Climbing,AU,AUD,Australia/Sydney,false
+5,Front Range Paintball,Paintball,US,USD,America/Denver,false
+6,Demo Venue - DO NOT USE,Escape room,GB,GBP,Europe/London,true
