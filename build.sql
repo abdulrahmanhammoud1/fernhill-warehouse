@@ -16,3 +16,5 @@ set TimeZone = 'UTC';
 .read sql/03_core/04_payments.sql
 .read sql/03_core/05_marts.sql
 .read sql/03_core/summary.sql
+
+.read sql/04_checks/checks.sql
